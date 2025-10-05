@@ -1,0 +1,27 @@
+# KiCad
+fp-info-cache/
+*.kicad_pro.user
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.pro.user
+Unidirectional Quad-MOSFET Motor Driver-backups/
+
+# Gerber/outputs (uncomment if you generate these)
+# gerbers/
+# fab/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor/IDE
+.vscode/
+*.swp
+
+# Windows PowerShell history
+ConsoleHost_history.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.old
