@@ -1,0 +1,19 @@
+
+# Treat KiCad project/schematic/pcb files as kicad
+*.kicad_sch linguist-language=KiCad
+*.kicad_pcb linguist-language=KiCad
+*.kicad_pro linguist-language=KiCad
+*.kicad_prl linguist-language=KiCad
+
+# Treat footprint cache as generated
+fp-info-cache/** linguist-generated=true
+
+# Treat backups and BOM HTML as generated so they don't count towards language stats
+Unidirectional\ Quad-MOSFET\ Motor\ Driver-backups/** linguist-generated=true
+bom/ibom.html linguist-generated=true
+
+# Ignore common binary or vendor files
+*.png linguist-generated=true
+*.jpg linguist-generated=true
+*.jpeg linguist-generated=true
+*.bin linguist-generated=true

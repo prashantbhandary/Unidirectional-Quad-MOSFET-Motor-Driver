@@ -65,7 +65,7 @@ Website: https://bhandari-prashant.com.np/
 Social:
 - LinkedIn: https://www.linkedin.com/in/prashantbdri
 - GitHub: https://github.com/prashantbhandary
-- Twitter: https://twitter.com/santhprashant
+- Twitter: https://twitter.com/prasahant_usr
 - Instagram: https://www.instagram.com/_prashant.08/
 
 Short bio: Electronics Engineering student (B.E.) specializing in Robotics, PCB design, and embedded systems. See https://bhandari-prashant.com.np/ for full profile and projects.
